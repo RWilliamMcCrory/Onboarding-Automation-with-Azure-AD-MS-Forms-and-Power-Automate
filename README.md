@@ -20,12 +20,10 @@ This project automates the joiner process using Azure AD, MS Forms, and Power Au
 
 
 <p align="center">
-Designing the Onboarding MS Form and Testing as HR:
+Designing the Onboarding MS Form:
  <br/>
 
-![image](https://github.com/user-attachments/assets/bcccce91-8c1c-4a33-b81d-35abb19ba21d)
-
-![image](https://github.com/user-attachments/assets/25ff2527-88f4-44c7-aeb3-0e3eaf7f694a)
+![image](https://github.com/user-attachments/assets/a74f322c-ecae-48a1-915f-6d19dc87ee5c)
 
 
 
@@ -34,7 +32,8 @@ Designing the Onboarding MS Form and Testing as HR:
 Setting Up Required Connections in Power Automate:
 <br/>
 
-![image](https://github.com/user-attachments/assets/2d120f7a-bece-48b7-a9cb-6f2fdcd79358)
+![image](https://github.com/user-attachments/assets/efe09596-ee9b-4d21-979c-a79015ff76e1)
+
 
 <br />
 <br />
@@ -43,19 +42,24 @@ Designing the onboarding workflow
 <br/>
 </p>
 
-![image](https://github.com/user-attachments/assets/1fec3716-9632-454a-9acd-659171e73a1e)
+![image](https://github.com/user-attachments/assets/8e77032e-694f-4a67-9e9e-7095e07f5abe)
 
-![image](https://github.com/user-attachments/assets/a204a9a6-2770-4955-a5ce-fc4f1a501e08)
 
-![image](https://github.com/user-attachments/assets/77f22b85-04ce-4fc9-87e1-d5ca8bad5f32)
+![image](https://github.com/user-attachments/assets/187b2d54-2780-480c-96f2-10a0e0d9a18c)
+
+
+![image](https://github.com/user-attachments/assets/8e8a6204-5b79-48fb-990c-f9583dbd8486)
+
 
 <p align="center">
 Setting Up the Dynamic RBAC Group:
 <br/>
 
-![image](https://github.com/user-attachments/assets/301b9337-e64b-4f11-af97-338a21b5d6fa)
+![image](https://github.com/user-attachments/assets/1a1a6b5f-42c7-464c-999c-9b6b0e80134a)
 
-![image](https://github.com/user-attachments/assets/2a0c2da6-c854-4eb2-bcf4-c3c9e2ae1ea9)
+
+![image](https://github.com/user-attachments/assets/03611ee1-fd64-48ee-bc6e-ab703420feed)
+
 
 
 
@@ -64,7 +68,8 @@ Validating the Workflow After Form Submission:
 
 <br/>
 
-![image](https://github.com/user-attachments/assets/355817e7-e224-4128-8c3e-0b0fb9e030e2)
+![image](https://github.com/user-attachments/assets/c1b188af-0494-4bd3-8b1b-e9cce8bfe020)
+
 
 
 
@@ -76,21 +81,22 @@ Verifying User Account Creation in Entra:
 
 
 
-![image](https://github.com/user-attachments/assets/7974ec0e-f095-4f7b-aaf8-eae2a45b830b)
+![image](https://github.com/user-attachments/assets/665146f1-02eb-431f-80d8-e6f0eb1fe9dc)
 
 
 
 <p align= "center">
 Verifying Successful Addition to the Dynamic Group:
 
-![image](https://github.com/user-attachments/assets/3d7f6e79-6675-47f4-b952-1ff3a48d0922)
+![image](https://github.com/user-attachments/assets/8ded5f68-f93a-4561-acc9-00630b64c2ca)
 
 
 
 <p align= "center">
 Verifying Onboarding Emails Were Sent
 
-![image](https://github.com/user-attachments/assets/cd3fc998-176d-4de9-bbfc-929a058e056d)
+![image](https://github.com/user-attachments/assets/bd78f3ca-4045-4eb9-82e4-0376e58d5182)
+
 
 
 
